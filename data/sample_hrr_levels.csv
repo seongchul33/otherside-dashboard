@@ -1,0 +1,13 @@
+collection,level,n_days,baseline,retained
+BAYC,Collection-level,30,5582,5195
+BAYC,Collection-level,90,5582,4889
+BAYC,Token-level,30,9996,9034
+BAYC,Token-level,90,9996,8126
+MAYC,Collection-level,30,12078,11010
+MAYC,Collection-level,90,12078,10362
+MAYC,Token-level,30,19569,17142
+MAYC,Token-level,90,19569,14935
+Koda,Collection-level,30,3223,3050
+Koda,Collection-level,90,3223,2741
+Koda,Token-level,30,8325,7509
+Koda,Token-level,90,8325,6498
